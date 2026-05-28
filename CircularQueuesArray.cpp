@@ -13,3 +13,7 @@ public:
 int main() {
     return 0;
 }
+Queues() {
+        FRONT = -1;
+        REAR = -1;
+    }
